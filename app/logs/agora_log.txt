@@ -1,0 +1,7 @@
+# Version: 1.0
+# Date: 05/09/2022 20:15:57
+# Fields: provider http-method status-code uri-path time-taken response-size cache-status
+ "Minha CDN" GET 200 /robots.txt 100.2 312 HIT
+ "Minha CDN" POST 200 /myImages 319.4 101 MISS
+ "Minha CDN" GET 404 /not-found 142.9 199 MISS
+ "Minha CDN" GET 200 /robots.txt 245.1 312 INVALIDATE
