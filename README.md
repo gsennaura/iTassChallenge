@@ -22,5 +22,5 @@ git pull
 4: Run Console Application using the following command: dotnet run (sourceUrl) (nameFile). 
     4.1: (SourceUrl): Link that contains a downloadable 'Minha CDN' log
     4.2: (nameFile): O nome do arquivo que será usado para salvar o log para download.
-    4.3: Example: dotnet run https://s3.amazonaws.com/uux-itaas-static/minha-cdn-logs/input-01.txt minhaCdn1.tx
+    4.3: Example: dotnet run https://s3.amazonaws.com/uux-itaas-static/minha-cdn-logs/input-01.txt minhaCdn1.txt
 ```
