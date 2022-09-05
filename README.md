@@ -3,8 +3,9 @@
 ### Clone the GIT repository available at: https://github.com/gsennaura/iTassChallenge.git ~ [GIT]
 ```sh
 git clone https://github.com/gsennaura/iTassChallenge.git
+cd .\iTassChallenge\app\
 git checkout main
-git push -u origin main
+git pull
 ```
 
 ### Important Requirements ~ [REQUIREMENTS]
