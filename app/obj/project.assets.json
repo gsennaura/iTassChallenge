@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\dotnet\\app\\app.csproj",
+      "projectUniqueName": "C:\\Projetos\\dotnet\\iTassChallenge\\iTassChallenge\\app\\app.csproj",
       "projectName": "app",
-      "projectPath": "C:\\Projetos\\dotnet\\app\\app.csproj",
+      "projectPath": "C:\\Projetos\\dotnet\\iTassChallenge\\iTassChallenge\\app\\app.csproj",
       "packagesPath": "C:\\Users\\Guilherme Sena\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\dotnet\\app\\obj\\",
+      "outputPath": "C:\\Projetos\\dotnet\\iTassChallenge\\iTassChallenge\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Guilherme Sena\\AppData\\Roaming\\NuGet\\NuGet.Config"

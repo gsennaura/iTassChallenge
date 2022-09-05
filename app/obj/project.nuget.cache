@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qKDBFYcRFkMixPgAW1XcK1gTEl1NPObO1pImJUYlnTf64NJaPP/3MKUdLCexcOvucea0lxRJUFq8kjYjSHVNSQ==",
+  "dgSpecHash": "aWVhyCmkKCa2s7rLiaUhpEMZm/lwiX9LtIS8i/FGLHGlbVLa2ltWxr4vSRYkmj8gSM0cSXBtOmwGrlvw/rny+w==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\dotnet\\app\\app.csproj",
+  "projectFilePath": "C:\\Projetos\\dotnet\\iTassChallenge\\iTassChallenge\\app\\app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
