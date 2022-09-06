@@ -18,7 +18,7 @@ namespace Guilherme.SenaGuilherme.ConvertFilesChallenge
                 string path = @"./logs/";  
                 string URIPath = args[0];
                 string sourceFileName = args[1];
-                string destinationFileName ="agora_log.txt";
+                string destinationFileName ="agora_log_output.txt";
                 FileConverter c = new FileConverter();
                 await c.ConvertFile(FileHandleEnumerators.SupportedFileTypes.MinhaCDN, FileHandleEnumerators.SupportedFileTypes.Agora, URIPath, path, sourceFileName, path, destinationFileName);
             }
